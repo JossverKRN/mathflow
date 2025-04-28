@@ -37,6 +37,12 @@ This project is dedicated to **Donald Knuth**, whose life's work continues to li
 
 ---
 
+## 📜 Cheat Sheet
+
+A quick-access LaTeX macro cheat sheet is available here:
+
+👉 [Download LaTeX Researcher Toolkit Cheat Sheet (PDF)](https://github.com/JossverKRN/mathflow/blob/main/latex_researcher_toolkit_cheatsheet_final_fixed%20(1).pdf)
+
 ## License
 
 MIT License.  
